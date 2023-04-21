@@ -1,8 +1,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://sdprimetv.mobirisesite.com/index.html</loc>
+		<loc>https://sdprimetv.com/index.html</loc>
 	</url>
 	<url>
-		<loc>https://sdprimetv.mobirisesite.com/IPTV.html</loc>
+		<loc>https://sdprimetv.com/netflix.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/max.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/informacion.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/plex.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/universal.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/disney+.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/star+.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/primevideo.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/vix.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/crunchyroll.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/magistv.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/telelatino.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/youtubepremium.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/spotify.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/youtubemusic.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/legazysistems.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/applemusic.html</loc>
 	</url>
 </urlset>
