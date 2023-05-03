@@ -66,7 +66,7 @@
       "enabled": true
     },
     "favicon": "@PROJECT_PATH@/assets/images/recurso-22x-128x144.png",
-    "mbrsiteDomain": "nmboohh21i",
+    "mbrsiteDomain": "i5kgh5sfb4",
     "imageResize": true,
     "usedWebp": true,
     "cssOptimize": true,
@@ -2484,14 +2484,14 @@
                 "alt": "banner 1 netflix"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2-1-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-20-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/2-1600x900.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/2-1-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/1-14-1920x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/1-22-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": false,
+                "active": true,
                 "alt": "banner 2 netflix"
               },
               {
@@ -2502,7 +2502,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/3-1-85x48.png",
                 "title": "title 3",
                 "text": "text 3",
-                "active": true,
+                "active": false,
                 "alt": "banner 3 netflix"
               }
             ],
@@ -4610,14 +4610,14 @@
             "theme": "easy",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/2-3-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-23-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/2-2-1600x900.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/2-3-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/1-17-1920x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/1-25-85x48.png",
                 "title": "Estreno",
                 "text": "Abril",
-                "active": false,
+                "active": true,
                 "alt": "banner 1 max"
               },
               {
@@ -4639,7 +4639,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/dave-1-85x48.png",
                 "title": "title 3",
                 "text": "text 3",
-                "active": true,
+                "active": false,
                 "alt": "banner 3 max"
               }
             ],
@@ -12144,14 +12144,14 @@
                 "alt": "banner 1 disney+"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2-12-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-21-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/2-7-1600x900.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/2-12-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/1-15-1920x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/1-23-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": false,
+                "active": true,
                 "alt": "banner 2 disney+"
               },
               {
@@ -12162,7 +12162,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/3-6-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": true,
+                "active": false,
                 "alt": "banner 3 disney+"
               }
             ],
@@ -16422,14 +16422,14 @@
                 "alt": "banner 1 prime video"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/2-14-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-22-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/2-9-1600x900.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/2-14-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/1-16-1920x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/1-24-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": false,
+                "active": true,
                 "alt": "banner 2 prime video"
               },
               {
@@ -16440,7 +16440,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/3-10-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": true,
+                "active": false,
                 "alt": "banner 3 prime video"
               }
             ],
