@@ -66,7 +66,7 @@
       "enabled": true
     },
     "favicon": "@PROJECT_PATH@/assets/images/recurso-22x-128x144.png",
-    "mbrsiteDomain": "i5kgh5sfb4",
+    "mbrsiteDomain": "dkybteagnp",
     "imageResize": true,
     "usedWebp": true,
     "cssOptimize": true,
@@ -99,7 +99,8 @@
       "themeColor": "#000000"
     },
     "site_lang": "es",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-GMS4CZ6PVP\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-GMS4CZ6PVP');\n</script>"
   },
   "pages": {
     "index.html": {
