@@ -14615,11 +14615,11 @@
             "theme": "easy",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/1-11-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-25-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/1-6-1600x900.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/1-11-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/1-19-1920x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/1-27-85x48.png",
                 "title": "Estreno",
                 "text": "Abril",
                 "active": false,
@@ -14637,11 +14637,11 @@
                 "alt": "banner 2 star+"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/3-9-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-18-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/3-7-1600x900.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/3-9-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/2-14-1920x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/2-20-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": true,
@@ -18900,7 +18900,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/1-13-85x48.png",
                 "title": "Estreno",
                 "text": "Abril",
-                "active": false,
+                "active": true,
                 "alt": "banner 1 vix"
               },
               {
@@ -18911,8 +18911,19 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/2-15-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
-                "active": true,
+                "active": false,
                 "alt": "banner 2 vix"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-13-1920x1080.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "@PROJECT_PATH@/assets/images/1-8-1600x900.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/1-13-85x48.png",
+                "title": "Estreno",
+                "text": "Abril",
+                "active": false,
+                "alt": "banner 1 vix"
               }
             ],
             "fullScreen": true,
@@ -36276,14 +36287,14 @@
             "theme": "easy",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/1-14-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-24-1600x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "@PROJECT_PATH@/assets/images/1-9-1920x1080.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/1-17-85x48.png",
+                "src": "@PROJECT_PATH@/assets/images/1-18-1920x1080.jpg",
+                "tooltip": "@PROJECT_PATH@/assets/images/1-26-85x48.png",
                 "title": "Estreno",
                 "text": "Abril",
-                "active": false,
+                "active": true,
                 "alt": "banner 1 paramount+"
               },
               {
@@ -36305,7 +36316,7 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/3-13-85x48.png",
                 "title": "Estreno",
                 "text": "Abril",
-                "active": true,
+                "active": false,
                 "alt": "banner 3 paramount+"
               }
             ],
