@@ -78,6 +78,9 @@
 		<loc>https://sdprimetv.com/informacion-afiliado.html</loc>
 	</url>
 	<url>
-		<loc>https://sdprimetv.com/formulario_de_registro.html</loc>
+		<loc>https://sdprimetv.com/formulario_afiliados.html</loc>
+	</url>
+	<url>
+		<loc>https://sdprimetv.com/formulario_nuevos_afiliados.html</loc>
 	</url>
 </urlset>
